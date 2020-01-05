@@ -1,0 +1,555 @@
+,city_cn,city_en,city_id,country,placeNumber,position_x,position_y,url,visitedNumber
+0,马尼拉,Manila,7271,philippines,584,14.599512,120.984222,//place.qyer.com/manila/,22882
+1,长滩岛,Boracay,7286,philippines,453,11.963376,121.926506,//place.qyer.com/boracay/,17049
+2,宿雾市,Cebu city,7280,philippines,41,10.311111,123.891670,//place.qyer.com/cebu-city/,11728
+3,薄荷岛,Bohol,7264,philippines,170,9.858663,124.177704,//place.qyer.com/bohol/,9019
+4,杜马盖地,Dumaguete,7267,philippines,93,9.310278,123.308060,//place.qyer.com/dumaguete/,3928
+5,菲律宾科隆,Coron,7270,philippines,69,11.998611,120.205833,//place.qyer.com/coron/,3523
+6,卡利博,Kalibo,14199,philippines,3,11.700000,122.366669,//place.qyer.com/kalibo/,3186
+7,邦劳,Panglao City,13742,philippines,2,9.583333,123.750000,//place.qyer.com/panglao-city/,2251
+8,公主港,Puerto princesa,7276,philippines,10,9.966219,118.785416,//place.qyer.com/puerto-princesa/,2203
+9,巴拉望岛,Palawan,7262,philippines,42,9.445074,118.394394,//place.qyer.com/palawan/,2017
+10,加莱拉港,PG,7278,philippines,20,13.501891,120.954117,//place.qyer.com/pg/,1738
+11,锡基霍尔,Siquijor,7283,philippines,12,9.215556,123.514168,//place.qyer.com/siquijor/,1675
+12,爱妮岛,El nido,7259,philippines,13,11.209802,119.461006,//place.qyer.com/el-nido/,1569
+13,克拉克,Clark,11388,philippines,5,15.183735,120.534721,//place.qyer.com/clark/,1426
+14,马勒帕斯卡岛,Malapascua Island,10429,philippines,8,11.335846,124.115639,//place.qyer.com/malapascua-island/,853
+15,墨宝,Moalboal,11504,philippines,8,9.957373,123.385857,//place.qyer.com/moalboal/,817
+16,黎牙实比,Legazpi,10125,philippines,11,13.124589,123.740906,//place.qyer.com/legazpi/,749
+17,达沃,Davao,9925,philippines,13,7.190708,125.455338,//place.qyer.com/davao/,478
+18,碧瑶,Baguio,7265,philippines,10,16.388277,120.598778,//place.qyer.com/baguio/,402
+19,马卡蒂,San Pedro Makati,14513,philippines,0,14.546964,121.067192,//place.qyer.com/san-pedro-makati/,369
+20,拉瓦格,Laoag,10155,philippines,8,18.196012,120.592667,//place.qyer.com/laoag/,334
+21,栋索尔,Donsol,7266,philippines,6,12.911820,123.602699,//place.qyer.com/donsol/,328
+22,八打雁,Batangas,24638,philippines,1,13.756457,121.058273,//place.qyer.com/batangas/,284
+23,巴克拉洋,Baclayon,13349,philippines,1,9.633333,123.900002,//place.qyer.com/baclayon/,283
+24,塔盖泰,Tagaytay,10157,philippines,2,14.115286,120.962112,//place.qyer.com/tagaytay/,258
+25,甘米银,Camiguin,10431,philippines,17,9.173216,124.729874,//place.qyer.com/camiguin/,256
+26,维甘,Vigan,7282,philippines,9,17.576826,120.386002,//place.qyer.com/vigan/,250
+27,罗博,Loboc,14462,philippines,1,9.633333,124.033333,//place.qyer.com/loboc/,203
+28,伊洛伊洛,Iloilo,7285,philippines,8,10.696944,122.564445,//place.qyer.com/iloilo/,188
+29,巴拿威,Banaue,10156,philippines,3,16.918888,121.058891,//place.qyer.com/banaue/,138
+30,班塔延岛,Bantayan,10548,philippines,6,11.169512,123.726585,//place.qyer.com/bantayan/,136
+31,巴科洛德,Bacolod,7261,philippines,2,10.656424,122.956223,//place.qyer.com/bacolod/,110
+32,塔克洛班,Tacloban,7281,philippines,6,11.233551,124.994453,//place.qyer.com/tacloban/,107
+33,卡加延-德奥罗,Cagayan de oro,7269,philippines,5,8.481111,124.643059,//place.qyer.com/cagayan-de-oro/,105
+34,锡亚高岛,Siargao,10543,philippines,7,9.848188,126.045845,//place.qyer.com/siargao/,104
+35,安吉利斯,Angeles,13648,philippines,0,15.144985,120.588699,//place.qyer.com/angeles/,99
+36,苏里高,Surigao,10544,philippines,1,9.757131,125.513763,//place.qyer.com/surigao/,85
+37,巴顿港,Port barton,7260,philippines,2,10.415546,119.179367,//place.qyer.com/port-barton/,81
+38,萨加达,Sagada,7277,philippines,1,17.086390,120.906670,//place.qyer.com/sagada/,74
+39,达拉盖地,Dalaguete,24520,philippines,1,9.783662,123.505600,//place.qyer.com/dalaguete/,63
+40,纳加,Naga,7274,philippines,7,13.633705,123.273682,//place.qyer.com/naga/,60
+41,三宝颜,Zamboanga,11184,philippines,3,6.921442,122.079025,//place.qyer.com/zamboanga/,60
+42,罗哈斯,Roxas,24460,philippines,1,11.552882,122.740723,//place.qyer.com/roxas/,35
+43,锡帕莱,Sipalay,7284,philippines,0,9.751944,122.404167,//place.qyer.com/sipalay/,33
+44,帕拉那克,Parañaque,14681,philippines,0,14.479309,121.019821,//place.qyer.com/paranaque/,16
+45,卡塔曼,Catarman,13115,philippines,0,12.451926,124.651016,//place.qyer.com/catarman/,13
+46,萨布拉延,Sablayan,24636,philippines,0,12.858212,120.892464,//place.qyer.com/sablayan/,9
+47,巴布延群岛,Babuyan Islands,15389,philippines,0,19.289223,121.468468,//place.qyer.com/babuyan-islands/,4
+48,阿布拉-德伊洛,Abra de Ilog,24637,philippines,0,13.363831,120.757980,//place.qyer.com/abra-de-ilog/,4
+49,暹粒,Siem Reap,58,cambodia,819,13.362222,103.859718,//place.qyer.com/siem-reap/,54742
+50,金边,Phnom penh,7661,cambodia,924,11.550000,104.916664,//place.qyer.com/phnom-penh/,21811
+51,西哈努克市,Sihanoukville,7668,cambodia,40,10.633333,103.500000,//place.qyer.com/sihanoukville/,5506
+52,马德望,Battambang,7663,cambodia,25,13.100000,103.199997,//place.qyer.com/battambang/,1206
+53,波贝,Poipet,7657,cambodia,4,13.656111,102.562500,//place.qyer.com/poipet/,819
+54,贡布,Kampot,7660,cambodia,14,10.612426,104.184181,//place.qyer.com/kampot/,589
+55,柏威夏,Preah Vihear,7652,cambodia,6,14.393166,104.680023,//place.qyer.com/preah-vihear/,533
+56,柬埔寨白马市,Kep city,7651,cambodia,5,10.496721,104.318100,//place.qyer.com/kep-city/,490
+57,上丁,Stung treng,7665,cambodia,3,13.516667,105.966667,//place.qyer.com/stung-treng/,308
+58,磅湛,Kompong cham,7656,cambodia,2,12.000000,105.449997,//place.qyer.com/kompong-cham/,222
+59,桔井,Kratie,7662,cambodia,6,12.483333,106.016670,//place.qyer.com/kratie/,188
+60,磅清扬,Kompong chhnang,7654,cambodia,1,12.250000,104.666664,//place.qyer.com/kompong-chhnang/,146
+61,诗梳风,Sisophon,7666,cambodia,4,13.583333,102.983330,//place.qyer.com/sisophon/,132
+62,磅同,Kompong thom,7655,cambodia,1,12.700000,104.900002,//place.qyer.com/kompong-thom/,131
+63,安隆汶,Anlong veng,7650,cambodia,2,14.233333,104.083336,//place.qyer.com/anlong-veng/,112
+64,柴桢,Svay rieng,7659,cambodia,2,11.083333,105.800003,//place.qyer.com/svay-rieng/,73
+65,拜林,Pailin,7653,cambodia,1,12.850556,102.609718,//place.qyer.com/pailin/,58
+66,,Siem Reab,24603,cambodia,0,13.370000,103.860001,//place.qyer.com/siem-reab/,43
+67,班龙,Banlung,24313,cambodia,2,13.706082,107.030319,//place.qyer.com/banlung/,18
+68,曼谷,Bangkok,55,thailand,1500,13.741551,100.510368,//place.qyer.com/bangkok/,177082
+69,清迈,Chiang Mai,54,thailand,1500,18.775663,98.923729,//place.qyer.com/chiang-mai/,93982
+70,普吉岛,Phuket Island,8845,thailand,1500,7.984311,98.330750,//place.qyer.com/phuket-island/,91221
+71,芭提雅,Pattaya,8804,thailand,1500,12.927500,100.875275,//place.qyer.com/pattaya/,55917
+72,皮皮岛,Ko Phi-Phi,8844,thailand,206,7.746116,98.778412,//place.qyer.com/ko-phi-phi/,17468
+73,拜县,Pai,8806,thailand,150,19.316668,98.449997,//place.qyer.com/pai/,15618
+74,甲米,Krabi,8823,thailand,460,8.066667,98.916664,//place.qyer.com/krabi/,15454
+75,苏梅岛,Ko Samui,8858,thailand,869,9.512017,100.013596,//place.qyer.com/ko-samui/,15087
+76,清莱,Chiang rai,8849,thailand,215,19.900000,99.833336,//place.qyer.com/chiang-rai/,12857
+77,大城,Ayutthaya,8814,thailand,295,14.350000,100.550003,//place.qyer.com/ayutthaya/,9859
+78,华欣,Hua hin,8822,thailand,560,12.569348,99.961815,//place.qyer.com/hua-hin/,7718
+79,涛岛,Ko Tao,8863,thailand,195,10.095610,99.840393,//place.qyer.com/ko-tao/,6062
+80,泰国象岛,Ko Chang,8867,thailand,56,12.047916,102.323479,//place.qyer.com/ko-chang/,4144
+81,素可泰,Sukhothai,8859,thailand,44,17.006390,99.823334,//place.qyer.com/sukhothai/,4093
+82,素叻他尼,Surat thani,8860,thailand,5,9.133333,99.316666,//place.qyer.com/surat-thani/,3708
+83,沙美岛,Ko Samet,10486,thailand,29,12.567094,101.453789,//place.qyer.com/ko-samet/,3682
+84,斯米兰群岛,Similan Islands,10506,thailand,4,8.657863,97.646675,//place.qyer.com/similan-islands/,2929
+85,合艾,Hat yai,8819,thailand,17,7.016667,100.466667,//place.qyer.com/hat-yai/,2217
+86,兰达岛,Ko lanta,8826,thailand,21,7.550000,99.083336,//place.qyer.com/ko-lanta/,1992
+87,春蓬,Chumphon,8811,thailand,5,10.493050,99.180023,//place.qyer.com/chumphon/,1766
+88,夜功,Samut songkhram,8857,thailand,10,13.409822,100.002266,//place.qyer.com/samut-songkhram/,1551
+89,清孔,Chiang khong,8848,thailand,4,20.283333,100.400002,//place.qyer.com/chiang-khong/,1502
+90,泰国董里,Trang,8816,thailand,24,7.550000,99.599998,//place.qyer.com/trang/,1485
+91,丽贝岛,Ko Lipe,10509,thailand,6,6.488572,99.304893,//place.qyer.com/ko-lipe/,1450
+92,波普,Bophut ,13804,thailand,3,9.578246,99.998451,//place.qyer.com/bophut/,1413
+93,帕岸岛,Ko Phangan,10485,thailand,27,9.731875,100.013596,//place.qyer.com/ko-phangan/,1348
+94,卡塔,Kata,15208,thailand,0,7.824365,98.293274,//place.qyer.com/kata/,1240
+95,北碧,Kanchanaburi,8808,thailand,28,14.019167,99.529724,//place.qyer.com/kanchanaburi/,1117
+96,马叻,Maret,14323,thailand,1,9.472457,100.033279,//place.qyer.com/maret/,913
+97,廊开,Nong khai,8828,thailand,11,17.876110,102.744446,//place.qyer.com/nong-khai/,758
+98,夜丰颂,Mae hong son,8868,thailand,14,19.266666,97.933334,//place.qyer.com/mae-hong-son/,720
+99,彭世洛,Phitsanulok,8842,thailand,4,16.833332,100.250000,//place.qyer.com/phitsanulok/,717
+100,清盛,Chiang saen,8852,thailand,2,20.275000,100.088333,//place.qyer.com/chiang-saen/,582
+101,湄赛,Mae sai,8834,thailand,4,20.433332,99.883331,//place.qyer.com/mae-sai/,566
+102,蔻立,Khao Lak,10507,thailand,1,8.615424,98.244064,//place.qyer.com/khao-lak/,498
+103,南邦,Lampang,8838,thailand,15,18.298332,99.507225,//place.qyer.com/lampang/,481
+104,达叻,Trat,8813,thailand,8,12.233333,102.500000,//place.qyer.com/trat/,479
+105,湄南,Mae Nam,14559,thailand,1,9.562564,99.974457,//place.qyer.com/mae-nam/,443
+106,纳通,Nathon,13463,thailand,2,9.534414,99.937492,//place.qyer.com/nathon/,423
+107,宋卡,Songkhla,9865,thailand,9,7.175600,100.614349,//place.qyer.com/songkhla/,413
+108,华富里,Lopburi,8820,thailand,15,14.799508,100.653374,//place.qyer.com/lopburi/,362
+109,孔敬,Khon kaen,8824,thailand,6,16.433332,102.833336,//place.qyer.com/khon-kaen/,359
+110,乌隆,Udon thani,8865,thailand,3,17.407499,102.793053,//place.qyer.com/udon-thani/,343
+111,查龙,Chalong ,13865,thailand,0,7.847697,98.337082,//place.qyer.com/chalong/,321
+112,佛统,Nakhon pathom,8817,thailand,2,13.816667,100.050003,//place.qyer.com/nakhon-pathom/,317
+113,七岩,Cha Am,14747,thailand,2,12.799487,99.966919,//place.qyer.com/cha-am/,294
+114,呵叻,Nakhon ratchasima kh,8801,thailand,2,14.973849,102.083649,//place.qyer.com/nakhon-ratchasima-kh/,274
+115,北榄,Samut prakan,8855,thailand,4,13.600000,100.599998,//place.qyer.com/samut-prakan/,253
+116,曾蒙海滩,Choeng Mon Beach,13863,thailand,0,9.578626,100.083527,//place.qyer.com/choeng-mon-beach/,248
+117,清道,Chiang dao,8846,thailand,3,19.422564,98.973083,//place.qyer.com/chiang-dao/,227
+118,尖竹汶,Chanthaburi,8869,thailand,5,12.600000,102.150002,//place.qyer.com/chanthaburi/,214
+119,沙敦,Satun,8853,thailand,1,6.616667,100.066666,//place.qyer.com/satun/,213
+120,南奔,Lamphun,8839,thailand,1,18.581112,99.009171,//place.qyer.com/lamphun/,176
+121,乌汶,Ubon ratchathani,8866,thailand,2,15.233056,104.863052,//place.qyer.com/ubon-ratchathani/,172
+122,洛坤,Nakhon si thammarat,8837,thailand,2,8.433333,99.966667,//place.qyer.com/nakhon-si-thammarat/,153
+123,甘烹碧,Kamphaeng phet,8818,thailand,17,16.466667,99.500000,//place.qyer.com/kamphaeng-phet/,143
+124,巴蜀府,Prachuap khiri khan,8805,thailand,567,11.816667,99.800003,//place.qyer.com/prachuap-khiri-khan/,132
+125,披迈,Phimai,8843,thailand,1,15.216667,102.500000,//place.qyer.com/phimai/,124
+126,拉廊,Ranong,8825,thailand,4,9.966667,98.633331,//place.qyer.com/ranong/,115
+127,暖武里,Nonthaburi,14656,thailand,0,13.862113,100.514351,//place.qyer.com/nonthaburi/,115
+128,湄索,Mae sot,8835,thailand,1,16.716667,98.566666,//place.qyer.com/mae-sot/,114
+129,是拉差,Si Racha,14905,thailand,1,13.164131,100.921661,//place.qyer.com/si-racha/,102
+130,帕尧,Phayao,11256,thailand,4,19.166479,99.901939,//place.qyer.com/phayao/,100
+131,达府,Tak,8812,thailand,3,16.866667,99.133331,//place.qyer.com/tak/,89
+132,班佩,Ban Phe,13739,thailand,3,12.628316,101.440140,//place.qyer.com/ban-phe/,83
+133,利巴诺伊,Lipa Noi,14437,thailand,1,9.502002,99.980042,//place.qyer.com/lipa-noi/,80
+134,清刊,Chiang khan,8847,thailand,2,17.891336,101.652527,//place.qyer.com/chiang-khan/,79
+135,沙功那空,Sakon nakhon,8854,thailand,2,17.166668,104.150002,//place.qyer.com/sakon-nakhon/,69
+136,黎府,Loei,8830,thailand,2,17.483334,101.716667,//place.qyer.com/loei/,69
+137,仲天海滩,Jomtien Beach,15190,thailand,0,12.878593,100.889809,//place.qyer.com/jomtien-beach/,65
+138,龙仔厝,Samut sakhon,8856,thailand,1,13.533333,100.283333,//place.qyer.com/samut-sakhon/,60
+139,奈岛,Ko Ngai,14627,thailand,0,7.415570,99.203751,//place.qyer.com/ko-ngai/,55
+140,桑卡拉武里,Sangkhlaburi,11360,thailand,1,15.141160,98.449532,//place.qyer.com/sangkhlaburi/,53
+141,北大年,Pattani,8809,thailand,1,6.888611,101.274170,//place.qyer.com/pattani/,52
+142,迈萨良,Mae sariang,8833,thailand,0,18.157778,97.933609,//place.qyer.com/mae-sariang/,51
+143,Don Sak,Don Sak,13391,thailand,0,9.213790,99.700974,//place.qyer.com/don-sak/,48
+144,那空拍侬,Nakhon Phanom,11358,thailand,0,17.392038,104.769554,//place.qyer.com/nakhon-phanom/,42
+145,芳县,Fang,11357,thailand,0,19.864391,99.180565,//place.qyer.com/fang/,41
+146,杭东,Hang Dong,14093,thailand,0,18.686275,98.919334,//place.qyer.com/hang-dong/,39
+147,通帕蓬,Thong pha phum,8864,thailand,1,14.733333,98.633331,//place.qyer.com/thong-pha-phum/,32
+148,班纳,Bangna,13737,thailand,1,13.668978,100.613953,//place.qyer.com/bangna/,31
+149,塔帕农,That phanom,8862,thailand,1,16.950001,104.733330,//place.qyer.com/that-phanom/,28
+150,黎逸府,Roi Et,8832,thailand,1,16.064358,103.643776,//place.qyer.com/roi-et/,25
+151,莱卡邦,Lat Krabang,14348,thailand,0,13.723379,100.783882,//place.qyer.com/lat-krabang/,24
+152,阁遥岛,Ko Yao Noi,14023,thailand,0,8.119178,98.605072,//place.qyer.com/ko-yao-noi/,22
+153,莫拉限,Mukdahan,8836,thailand,1,16.533333,104.716667,//place.qyer.com/mukdahan/,22
+154,塔琅,Thalang,13516,thailand,0,7.884718,98.389771,//place.qyer.com/thalang/,18
+155,讪巴东,San Pa Tong,14824,thailand,0,18.628622,98.895760,//place.qyer.com/san-pa-tong/,17
+156,卡图区,Kathu,14224,thailand,0,7.910248,98.295357,//place.qyer.com/kathu/,14
+157,兰喔,Laem ngop,8827,thailand,0,12.166667,102.433334,//place.qyer.com/laem-ngop/,13
+158,北革,Pak Kret,13729,thailand,0,13.899497,100.542641,//place.qyer.com/pak-kret/,12
+159,班柯木,Ko Mook,13736,thailand,0,7.373044,99.301682,//place.qyer.com/ko-mook/,11
+160,武里南直辖县,Mueang Buriram District,24716,thailand,0,14.994063,103.101608,//place.qyer.com/mueang-buriram-district/,10
+161,芒考,Mueang Kao,14543,thailand,0,17.034124,99.700974,//place.qyer.com/mueang-kao/,8
+162,娘隆县,Nang Rong,24717,thailand,4,14.632940,102.792793,//place.qyer.com/nang-rong/,8
+163,农磨,Nong bua,8840,thailand,0,15.866667,100.583336,//place.qyer.com/nong-bua/,7
+164,匹莱海滩,Pilai Beach,14722,thailand,0,8.273883,98.276726,//place.qyer.com/pilai-beach/,7
+165,斯里巴加湾市,Bandar seri begawan,8970,brunei,53,4.883333,114.933334,//place.qyer.com/bandar-seri-begawan/,2400
+166,白拉奕,Kuala belait,8968,brunei,3,4.583333,114.183334,//place.qyer.com/kuala-belait/,331
+167,邦阿,Bangar,8969,brunei,1,4.716667,115.066666,//place.qyer.com/bangar/,288
+168,甘榜杰鲁登,Kampong Jerudong,14011,brunei,1,4.947628,114.835976,//place.qyer.com/kampong-jerudong/,124
+169,胡志明市,Ho Chi Minh City,57,vitetnam,1310,10.823099,106.629662,//place.qyer.com/ho-chi-minh-city/,35173
+170,河内,Hanoi,56,vitetnam,1193,21.033333,105.849998,//place.qyer.com/hanoi/,25089
+171,芽庄,Nha trang,9774,vitetnam,639,12.250000,109.183334,//place.qyer.com/nha-trang/,21695
+172,美奈,Mũi Né,9911,vitetnam,83,10.933210,108.287186,//place.qyer.com/mui-ne/,17105
+173,岘港,Da Nang,9909,vitetnam,582,16.051571,108.214897,//place.qyer.com/da-nang/,16201
+174,会安,Hoi an,9751,vitetnam,1030,15.880058,108.338043,//place.qyer.com/hoi-an/,15304
+175,大叻,Dalat,9738,vitetnam,291,11.940419,108.458313,//place.qyer.com/dalat/,15246
+176,顺化,Hue,9767,vitetnam,396,16.466667,107.599998,//place.qyer.com/hue/,8727
+177,下龙市,Halong city,9772,vitetnam,15,20.971197,107.044807,//place.qyer.com/halong-city/,5383
+178,芒街,Mong cai,9757,vitetnam,5,21.533333,107.966667,//place.qyer.com/mong-cai/,2257
+179,海防市,Haiphong,9745,vitetnam,19,20.856112,106.682220,//place.qyer.com/haiphong/,1809
+180,藩切,Phan thiet,9741,vitetnam,1,10.933333,108.099998,//place.qyer.com/phan-thiet/,1676
+181,老街市,Lao cai,9753,vitetnam,2,22.483334,103.949997,//place.qyer.com/lao-cai/,1455
+182,越南沙巴,Sapa,10490,vitetnam,6,22.335842,103.842575,//place.qyer.com/sapa/,1157
+183,富国岛,Dao Phu Quoc,10145,vitetnam,48,10.289879,103.984016,//place.qyer.com/dao-phu-quoc/,813
+184,头顿,Vung tau,9770,vitetnam,11,10.350000,107.066666,//place.qyer.com/vung-tau/,745
+185,美拖,My tho,9760,vitetnam,2,10.361025,106.366600,//place.qyer.com/my-tho/,727
+186,谅山,Lang son,9754,vitetnam,3,21.853708,106.761520,//place.qyer.com/lang-son/,493
+187,芹苴,Can tho,9764,vitetnam,22,10.033333,105.783333,//place.qyer.com/can-tho/,384
+188,富国,Duong Dong,14000,vitetnam,2,10.230256,103.967255,//place.qyer.com/duong-dong/,264
+189,清化,Thanh Hoa,10566,vitetnam,2,19.809389,105.776703,//place.qyer.com/thanh-hoa/,249
+190,宁平,Ninh binh,9763,vitetnam,3,20.257450,105.971741,//place.qyer.com/ninh-binh/,248
+191,荣市,Vinh,9765,vitetnam,1,18.679585,105.681335,//place.qyer.com/vinh/,136
+192,越南龙川,Long xuyen,9755,vitetnam,0,10.383333,105.416664,//place.qyer.com/long-xuyen/,126
+193,洞海,Dong Hoi,9756,vitetnam,3,17.464161,106.624496,//place.qyer.com/dong-hoi/,110
+194,槟椥,Ben tre,9736,vitetnam,1,10.233333,106.383331,//place.qyer.com/ben-tre/,98
+195,河江,Ha giang,9748,vitetnam,0,22.833332,104.983330,//place.qyer.com/ha-giang/,78
+196,朱笃,Chau Doc,10575,vitetnam,4,10.682081,105.082397,//place.qyer.com/chau-doc/,73
+197,昆仑岛,Con Dao,10146,vitetnam,14,8.696407,106.593765,//place.qyer.com/con-dao/,73
+198,永隆,Vinh long,9775,vitetnam,3,10.252389,105.968246,//place.qyer.com/vinh-long/,73
+199,绥和,Tuy hoa,9769,vitetnam,2,13.082200,109.316200,//place.qyer.com/tuy-hoa/,73
+200,北河,Bac ha,9735,vitetnam,1,22.533152,104.291527,//place.qyer.com/bac-ha/,60
+201,高平,Cao bang,9743,vitetnam,1,22.665323,106.259529,//place.qyer.com/cao-bang/,52
+202,奠边府,Dien Bien Phu,10565,vitetnam,4,21.409428,103.035583,//place.qyer.com/dien-bien-phu/,48
+203,河仙,Ha tien,9749,vitetnam,1,10.383333,104.483330,//place.qyer.com/ha-tien/,44
+204,薄寮,Bac lieu,9734,vitetnam,0,9.285000,105.724442,//place.qyer.com/bac-lieu/,32
+205,迪石,Rach gia,9739,vitetnam,0,10.016667,105.083336,//place.qyer.com/rach-gia/,28
+206,和平市,Hoa binh,9747,vitetnam,1,10.666667,105.216667,//place.qyer.com/hoa-binh/,28
+207,孟来,Muong lay,9762,vitetnam,0,22.036921,103.163544,//place.qyer.com/muong-lay/,27
+208,昆嵩,Kon tum,9752,vitetnam,1,14.366667,107.949997,//place.qyer.com/kon-tum/,26
+209,南定市,Nam Dinh,15384,vitetnam,1,20.431753,106.179054,//place.qyer.com/nam-dinh/,18
+210,邦美蜀,Buôn Ma Thuột,15610,vitetnam,0,12.666194,108.038246,//place.qyer.com/buon-ma-thuot/,16
+211,枚州,Mai Chau District,9758,vitetnam,1,20.690134,105.008987,//place.qyer.com/mai-chau-district/,11
+212,三歧,Tam Ky,15385,vitetnam,1,15.566895,108.482704,//place.qyer.com/tam-ky/,10
+213,香水市,Hương Thủy,24639,vitetnam,1,16.419840,107.646431,//place.qyer.com/hương-thủy/,8
+214,高岭,Cao lanh,9742,vitetnam,0,10.450000,105.633331,//place.qyer.com/cao-lanh/,8
+215,山萝,Son La,9766,vitetnam,0,21.102228,103.728920,//place.qyer.com/son-la/,5
+216,Thach Loi,Thach Loi,13515,vitetnam,0,21.219536,105.768860,//place.qyer.com/thach-loi/,4
+217,奠盘县,Dien Ban,13386,vitetnam,0,15.891565,108.247787,//place.qyer.com/dien-ban/,3
+218,琅勃拉邦,Luang Prabang,7731,laos,68,19.885599,102.135002,//place.qyer.com/luang-prabang/,7899
+219,万象,Vientiane,7735,laos,92,17.962769,102.614426,//place.qyer.com/vientiane/,6580
+220,万荣,Vang vieng,7734,laos,19,18.933332,102.449997,//place.qyer.com/vang-vieng/,4187
+221,会晒,Houay Xai,10396,laos,6,20.283333,100.416664,//place.qyer.com/houay-xai/,1661
+222,巴色,Pakse,7738,laos,5,15.116667,105.783333,//place.qyer.com/pakse/,1292
+223,四千岛,Si Phan Don,7733,laos,8,14.047043,105.832680,//place.qyer.com/si-phan-don/,890
+224,琅南塔,Luang Namtha,10397,laos,7,20.950001,101.400002,//place.qyer.com/luang-namtha/,615
+225,占巴塞,Champasak,7737,laos,2,14.883333,105.866669,//place.qyer.com/champasak/,554
+226,沙湾拿吉,Savannakhet,7739,laos,5,16.549999,104.750000,//place.qyer.com/savannakhet/,264
+227,丰沙湾,Phonsavan,10398,laos,5,19.459999,103.180000,//place.qyer.com/phonsavan/,230
+228,北宾,Pakbeng,11105,laos,0,19.898979,101.141914,//place.qyer.com/pakbeng/,214
+229,芒赛,Muang Xay,11106,laos,3,20.690697,101.986168,//place.qyer.com/muang-xay/,204
+230,琅多,Nong Khiaw,11107,laos,0,20.571035,102.611572,//place.qyer.com/nong-khiaw/,197
+231,波罗芬高原,Bolaven plateau,7730,laos,2,15.179002,106.236206,//place.qyer.com/bolaven-plateau/,164
+232,孟威,Muang Ngoi Neua,11108,laos,0,20.709000,102.675003,//place.qyer.com/muang-ngoi-neua/,122
+233,他曲,Tha Khaek,11110,laos,0,17.410597,104.831886,//place.qyer.com/tha-khaek/,95
+234,丰沙里省,Phongsaly,11356,laos,1,21.683332,102.099998,//place.qyer.com/phongsaly/,89
+235,昆坎,Ban Khoun Kham,11111,laos,0,15.546288,105.836739,//place.qyer.com/ban-khoun-kham/,71
+236,芒新,Muang sing,7732,laos,1,21.192223,101.146942,//place.qyer.com/muang-sing/,67
+237,沙那武里,Sayabouli,11355,laos,0,19.270273,101.710197,//place.qyer.com/sayabouli/,47
+238,孟夸,Muang Khua,11109,laos,0,21.077765,102.509727,//place.qyer.com/muang-khua/,36
+239,桑怒,Xam Neua,24777,laos,1,20.417084,104.047867,//place.qyer.com/xam-neua/,2
+240,吉隆坡,Kuala Lumpur,53,malaysia,1500,3.139003,101.686852,//place.qyer.com/kuala-lumpur/,108220
+241,马六甲,Melaka,7825,malaysia,578,2.190499,102.251633,//place.qyer.com/melaka/,33007
+242,亚庇,Kota kinabalu,7837,malaysia,749,5.980772,116.074394,//place.qyer.com/kota-kinabalu/,25230
+243,沙巴,Sabah,7824,malaysia,957,5.420404,116.796783,//place.qyer.com/sabah/,24612
+244,槟城,Penang,7801,malaysia,720,5.424578,100.314339,//place.qyer.com/penang/,20510
+245,兰卡威,Pulau Langkawi,7820,malaysia,379,6.378194,99.790176,//place.qyer.com/pulau-langkawi/,15924
+246,仙本那,Semporna,10159,malaysia,45,4.478436,118.610809,//place.qyer.com/semporna/,11559
+247,哥打巴鲁,Kota Bharu,7810,malaysia,20,6.133333,102.250000,//place.qyer.com/kota-bharu/,7941
+248,斗湖,Tawau,7806,malaysia,37,4.250000,117.900002,//place.qyer.com/tawau/,7430
+249,新山,Johor Bahru,9811,malaysia,41,1.463430,103.754715,//place.qyer.com/johor-bahru/,6412
+250,云顶高原,Genting Highlands,15179,malaysia,1,3.423978,101.793198,//place.qyer.com/genting-highlands/,5462
+251,热浪岛,Pulau Redang,9908,malaysia,15,5.784441,103.006889,//place.qyer.com/pulau-redang/,4611
+252,瓜拉登嘉楼,Kuala Terengganu,7814,malaysia,28,5.329624,103.137016,//place.qyer.com/kuala-terengganu/,3614
+253,卡帕莱,Kapalai,9960,malaysia,3,4.226382,118.683807,//place.qyer.com/kapalai/,3441
+254,怡保,Ipoh,7838,malaysia,45,4.583333,101.083336,//place.qyer.com/ipoh/,2972
+255,马布岛,Pulau Mabul,10483,malaysia,0,4.245960,118.630997,//place.qyer.com/pulau-mabul/,2611
+256,停泊岛,Pulau Perhentian,7835,malaysia,12,5.903788,102.753738,//place.qyer.com/pulau-perhentian/,2599
+257,金马伦高地,Cameron highlands,7818,malaysia,5,4.483333,101.449997,//place.qyer.com/cameron-highlands/,1892
+258,山打根,Sandakan,7833,malaysia,18,5.839566,118.117012,//place.qyer.com/sandakan/,1693
+259,古晋,Kuching,7813,malaysia,29,1.607680,110.378387,//place.qyer.com/kuching/,1687
+260,乔治市,George Town,24438,malaysia,0,5.414921,100.329758,//place.qyer.com/george-town-malaysia/,1550
+261,砂拉越,Sarawak,7823,malaysia,78,2.557428,113.001198,//place.qyer.com/sarawak/,1424
+262,瓜拉雪兰莪,Kuala Selangor,10518,malaysia,3,3.334976,101.258026,//place.qyer.com/kuala-selangor/,1416
+263,刁曼岛,Tioman Island,7805,malaysia,7,2.790249,104.169846,//place.qyer.com/tioman-island/,1362
+264,马奴干岛,Pulau Manukan,10467,malaysia,2,5.973544,115.999268,//place.qyer.com/pulau-manukan/,1116
+265,巴生,Kelang,10107,malaysia,9,3.043061,101.440659,//place.qyer.com/kelang/,1090
+266,布城,Putrajaya,9905,malaysia,6,2.926361,101.696442,//place.qyer.com/putrajaya/,1005
+267,关丹,Kuantan,7815,malaysia,3,3.800000,103.333336,//place.qyer.com/kuantan/,1002
+268,北海,Butterworth,7800,malaysia,5,5.416667,100.400002,//place.qyer.com/butterworth/,1001
+269,八打灵再也,Petaling Jaya,10104,malaysia,3,3.107094,101.608253,//place.qyer.com/petaling-jaya/,859
+270,邦咯岛, Pangkor,9995,malaysia,2,4.227237,100.559364,//place.qyer.com/pangkor/,825
+271,浪中岛,Pulau Lang Tengah,10462,malaysia,1,5.792827,102.900818,//place.qyer.com/pulau-lang-tengah/,758
+272,芙蓉市,Seremban,10109,malaysia,4,2.718592,101.948990,//place.qyer.com/seremban/,605
+273,丰盛港,Mersing,7809,malaysia,3,2.433333,103.833336,//place.qyer.com/mersing/,604
+274,瓜埠,Kuah,14062,malaysia,1,6.322842,99.846527,//place.qyer.com/kuah/,537
+275,波德申,Port Dickson,13793,malaysia,1,2.522540,101.796295,//place.qyer.com/port-dickson/,531
+276,亚罗士打,Alor Setar,10106,malaysia,5,6.119359,100.367691,//place.qyer.com/alor-setar/,495
+277,美里,Miri,7828,malaysia,34,4.398567,113.992889,//place.qyer.com/miri/,432
+278,珍拉丁,Cherating,10141,malaysia,1,4.125899,103.393799,//place.qyer.com/cherating/,415
+279,雪邦,Sepang,15146,malaysia,1,2.691369,101.750526,//place.qyer.com/sepang/,383
+280,诗巫,Sibu,7834,malaysia,6,2.288336,111.831085,//place.qyer.com/sibu/,286
+281,巴株巴辖,Batu Pahat,10111,malaysia,3,1.843577,102.947060,//place.qyer.com/batu-pahat/,281
+282,古达,Kudat,7812,malaysia,6,6.895944,116.848099,//place.qyer.com/kudat/,258
+283,巴都丁宜,Batu Ferringhi,13340,malaysia,0,5.473490,100.248528,//place.qyer.com/batu-ferringhi/,224
+284,红土坎,Lumut,9996,malaysia,2,4.228639,100.638199,//place.qyer.com/lumut/,218
+285,适耕庄,Sekinchan,11498,malaysia,3,3.500000,101.099998,//place.qyer.com/sekinchan/,218
+286,太平市,Taiping,15590,malaysia,1,4.851932,100.741631,//place.qyer.com/taiping/,191
+287,巴廖,Bario,10740,malaysia,0,3.746437,115.451508,//place.qyer.com/bario/,186
+288,纳闽,Labuan,10541,malaysia,10,5.294361,115.249588,//place.qyer.com/labuan/,186
+289,民都鲁,Bintulu,7829,malaysia,2,3.170438,113.043121,//place.qyer.com/bintulu/,183
+290,麻坡,Muar,15613,malaysia,3,2.048817,102.571556,//place.qyer.com/muar/,182
+291,莎阿南,Shah Alam,10105,malaysia,6,3.090607,101.529594,//place.qyer.com/shah-alam/,179
+292,蒲种,Puchong,15630,malaysia,3,3.025340,101.617767,//place.qyer.com/puchong/,178
+293,白沙岛,Pulau Besar,10460,malaysia,0,2.438030,103.981117,//place.qyer.com/pulau-besar/,151
+294,保佛,Beaufort,7802,malaysia,2,5.333333,115.750000,//place.qyer.com/beaufort/,139
+295,加影,Kajang,14165,malaysia,0,2.993518,101.787407,//place.qyer.com/kajang/,137
+296,吉胆岛,Pulau Ketam,10468,malaysia,2,3.033648,101.249382,//place.qyer.com/pulau-ketam/,135
+297,居銮,Kluang,15612,malaysia,6,2.030068,103.318466,//place.qyer.com/kluang/,132
+298,斗亚兰,Tuaran,7807,malaysia,0,6.176848,116.233330,//place.qyer.com/tuaran/,124
+299,林明,Lembing,10519,malaysia,2,3.916831,103.036201,//place.qyer.com/lembing/,120
+300,而连突,Jerantut,7808,malaysia,0,3.933333,102.366669,//place.qyer.com/jerantut/,118
+301,马鲁迪,Marudi,7826,malaysia,0,4.185013,114.319901,//place.qyer.com/marudi/,111
+302,巴六拜,Bayan Lepas,13341,malaysia,0,5.294464,100.259331,//place.qyer.com/bayan-lepas/,107
+303,士姑来,Skudai,14904,malaysia,3,1.537909,103.662231,//place.qyer.com/skudai/,104
+304,古打毛律,Kota belud,7811,malaysia,0,6.353242,116.428009,//place.qyer.com/kota-belud/,102
+305,瓜拉勿述,Kuala Besut,13434,malaysia,1,5.833333,102.566666,//place.qyer.com/kampung-kuala-besut/,98
+306,拿笃,Lahad datu,7831,malaysia,0,5.024441,118.331429,//place.qyer.com/lahad-datu/,98
+307,金宝,Kampar,15626,malaysia,1,4.308504,101.153656,//place.qyer.com/kampar/,96
+308,龟喀,Kukup,15618,malaysia,2,1.326870,103.445999,//place.qyer.com/kukup/,87
+309,哥打丁宜,Kota Tinggi,15611,malaysia,1,1.729375,103.899223,//place.qyer.com/kota-tinggi/,87
+310,拉瑙,Ranau,7819,malaysia,0,5.953350,116.664108,//place.qyer.com/ranau/,81
+311,丹绒武雅,Tanjung Bungah,13888,malaysia,0,5.465118,100.282211,//place.qyer.com/tanjung-bungah/,77
+312,,Georgetown,24632,malaysia,0,5.370000,100.309998,//place.qyer.com/georgetown/,76
+313,巴西古当,Pasir Gudang,13164,malaysia,0,1.450000,103.889999,//place.qyer.com/pasir-gudang/,69
+314,文冬,Bentong,15601,malaysia,0,3.522168,101.910355,//place.qyer.com/bentong/,66
+315,玻璃港,Kuala Perlis,15587,malaysia,0,6.397886,100.130676,//place.qyer.com/kuala-perlis/,62
+316,安顺市（霹雳州）,Teluk Intan,15625,malaysia,1,4.022424,101.020622,//place.qyer.com/teluk-intan/,61
+317,甘榜巴鲁尼莱,Nilai,14010,malaysia,0,2.802455,101.798874,//place.qyer.com/nilai/,58
+318,丹南,Tenom,7803,malaysia,0,5.124784,115.944504,//place.qyer.com/tenom/,57
+319,棉花岛,Pulau Kapas,10470,malaysia,0,5.219004,103.264908,//place.qyer.com/pulau-kapas/,54
+320,双溪大年,Sungai Petani,15589,malaysia,0,5.643589,100.489418,//place.qyer.com/sungai-petani/,53
+321,林梦,Limbang,7821,malaysia,0,4.754941,115.009140,//place.qyer.com/limbang/,52
+322,甘榜武吉丁宜,Bukit Tinggi,14013,malaysia,0,3.400997,101.846825,//place.qyer.com/bukit-tinggi/,52
+323,大汉山国家公园,Taman Negara National Park,15605,malaysia,1,4.674758,102.387337,//place.qyer.com/taman-negara-national-park/,49
+324,昔加末,Segamat,15614,malaysia,0,2.503460,102.820755,//place.qyer.com/segamat/,48
+325,根地咬,Keningau,7817,malaysia,0,5.333333,116.166664,//place.qyer.com/keningau/,48
+326,福隆港,Fraser's Hill,15602,malaysia,0,3.711868,101.736557,//place.qyer.com/frasers-hill/,48
+327,诗巫岛,Pulau Sibu,10482,malaysia,0,2.226346,104.062386,//place.qyer.com/pulau-sibu/,47
+328,美罗,Bidor,15623,malaysia,0,4.111608,101.287811,//place.qyer.com/bidor/,45
+329,加帛,Kapit,7816,malaysia,0,2.009805,112.934708,//place.qyer.com/kapit/,45
+330,士毛月,Semenyih,15631,malaysia,0,2.947441,101.845146,//place.qyer.com/semenyih/,42
+331,居林,Kulim,15622,malaysia,0,5.371742,100.555336,//place.qyer.com/kulim/,39
+332,民丹莪,Bintangor,15638,malaysia,0,2.169966,111.636642,//place.qyer.com/bintangor/,37
+333,黑木山,Bukit Kayu Hitam,15588,malaysia,0,6.509743,100.420387,//place.qyer.com/bukit-kayu-hitam/,35
+334,劳勿,Raub,15598,malaysia,0,3.793532,101.857468,//place.qyer.com/raub/,35
+335,巴丹勿刹,Padang Besar,15621,malaysia,0,6.662622,100.321663,//place.qyer.com/padang-besar/,35
+336,伦乐,Lundu,7822,malaysia,0,1.666667,109.849998,//place.qyer.com/lundu/,33
+337,奥尔岛,Pulau Aur,10474,malaysia,1,2.444152,104.524750,//place.qyer.com/pulau-aur/,31
+338,丁宜岛,Pulau Tinggi,10479,malaysia,0,2.304730,104.117561,//place.qyer.com/pulau-tinggi/,30
+339,江沙县,Kuala Kangsar,15624,malaysia,0,4.773595,100.942047,//place.qyer.com/kuala-kangsar/,29
+340,木胶,Mukah,7830,malaysia,0,2.898628,112.092445,//place.qyer.com/mukah/,26
+341,美拉牙,Belaga,7827,malaysia,1,2.705058,113.782219,//place.qyer.com/belaga/,26
+342,加央,Kangar,15586,malaysia,0,6.440633,100.198372,//place.qyer.com/kangar/,24
+343,哇岛,Pulau Rawa,10481,malaysia,0,2.520438,103.976044,//place.qyer.com/pulau-rawa/,24
+344,泗里街,Sarikei,15636,malaysia,0,2.131703,111.523727,//place.qyer.com/sarikei/,23
+345,甘马挽,Kemaman,15607,malaysia,0,4.233836,103.363800,//place.qyer.com/kemaman/,22
+346,兰卡央岛,Pulau Lankayan,10464,malaysia,0,6.526269,117.913918,//place.qyer.com/pulau-lankayan/,22
+347,担布南,Tambunan,7804,malaysia,0,5.719961,116.407867,//place.qyer.com/tambunan/,22
+348,新邦安拔,Simpang Ampat,15591,malaysia,0,5.283528,100.476860,//place.qyer.com/simpang-ampat/,21
+349,淡马鲁,Temerloh,15597,malaysia,0,3.448649,102.416351,//place.qyer.com/temerloh/,20
+350,金马士,Gemas,15599,malaysia,0,2.581593,102.612488,//place.qyer.com/gemas/,19
+351,登莪岛,Pulau Tenggol,10477,malaysia,0,4.803334,103.679688,//place.qyer.com/pulau-tenggol/,17
+352,北干,Pekan,15596,malaysia,1,3.492095,103.389542,//place.qyer.com/pekan/,17
+353,Kampong Pasir Hantu,Kampong Pasir Hantu,13433,malaysia,0,5.901874,102.727821,//place.qyer.com/kampong-pasir-hantu/,17
+354,边加兰,Pengerang,15617,malaysia,0,1.365763,104.107300,//place.qyer.com/pengerang/,15
+355,帕芒吉尔岛,Pulau Pemanggil,10476,malaysia,0,2.580882,104.326828,//place.qyer.com/pulau-pemanggil/,14
+356,文丁镇,Mantin,15632,malaysia,0,2.823032,101.894241,//place.qyer.com/mantin/,13
+357,新古毛,Kuala Kubu Bharu,15629,malaysia,0,3.561633,101.631310,//place.qyer.com/kuala-kubu-bharu/,12
+358,话毛生,Gua Musang,15592,malaysia,0,4.884279,101.968178,//place.qyer.com/gua-musang/,11
+359,比农岛,Pulau Bidong,10463,malaysia,0,5.616840,103.065125,//place.qyer.com/pulau-bidong/,11
+360,兰斗班让,Rantau Panjang,15593,malaysia,0,6.022469,101.976555,//place.qyer.com/rantau-panjang/,11
+361,双溪里蒙,Kampung Sungai Nibong,14906,malaysia,0,5.340365,100.301384,//place.qyer.com/kampung-sungai-nibong/,10
+362,瓜拉立卑,Kuala Lipis,15600,malaysia,0,4.184330,102.054230,//place.qyer.com/kuala-lipis/,10
+363,帕帕尔,Papar,14685,malaysia,1,5.734628,115.931854,//place.qyer.com/papar/,9
+364,丹绒里桑,Tanjung Resang,15616,malaysia,0,2.575242,103.811913,//place.qyer.com/tanjung-resang/,9
+365,瓜拉吉来,Kuala Krai,15595,malaysia,0,5.530813,102.201851,//place.qyer.com/kuala-krai/,9
+366,马江,Marang,14512,malaysia,0,5.207711,103.204941,//place.qyer.com/marang/,9
+367,巴东马士力,Kampung Padang Masirat,13702,malaysia,0,6.352057,99.733604,//place.qyer.com/kampung-padang-masirat/,8
+368,丹绒必答拉,Tanjung Bidara,15635,malaysia,0,2.306400,102.078766,//place.qyer.com/tanjung-bidara/,8
+369,居茶,Kerteh,15609,malaysia,0,4.507894,103.443001,//place.qyer.com/kerteh/,6
+370,珍德拜,Janda Baik,15603,malaysia,0,3.350000,101.883331,//place.qyer.com/janda-baik/,5
+371,兴楼云冰国家公园,Endau Rompin National Park,15619,malaysia,0,2.420260,103.261375,//place.qyer.com/endau-rompin-national-park/,5
+372,肯逸湖,Tasik Kenyir,15608,malaysia,0,5.003962,102.638847,//place.qyer.com/tasik-kenyir/,5
+373,京那律,Kinarut,14178,malaysia,0,5.836055,116.044342,//place.qyer.com/kinarut/,4
+374,实文然,Simunjan,15637,malaysia,0,1.072972,110.915329,//place.qyer.com/simunjan/,4
+375,皇家柏隆国家公园,Royal Belum State Park,15627,malaysia,1,5.786092,101.514290,//place.qyer.com/royal-belum-state-park/,3
+376,神安池,Seri Menanti,15633,malaysia,0,2.697464,102.158501,//place.qyer.com/seri-menanti/,3
+377,乔治敦,Georgetown,7832,malaysia,0,5.363647,100.310799,//place.qyer.com/georgetown-malaysia/,3
+378,甘榜茹塔牌,Kampung Ru Tapai,14012,malaysia,0,5.513375,102.980003,//place.qyer.com/kampung-ru-tapai/,2
+379,美拉坡,Merapoh,15604,malaysia,0,4.693200,102.002831,//place.qyer.com/merapoh/,2
+380,拿督山,Mount Datuk,15634,malaysia,0,2.543545,102.169128,//place.qyer.com/mount-datuk/,1
+381,天勐莪森林保护区,Temenggor Forest Reserve,15628,malaysia,0,5.543386,101.341431,//place.qyer.com/temenggor-forest-reserve/,1
+382,马廖盆地,Maliau Basin,15594,malaysia,0,4.828260,116.893677,//place.qyer.com/maliau-basin/,1
+383,,Sarikel,24892,malaysia,0,2.120000,111.519997,//place.qyer.com/sarikel/,1
+384,仰光,Yangon,8276,myanmar,109,16.799999,96.150002,//place.qyer.com/yangon/,7877
+385,蒲甘,Bagan,8270,myanmar,97,21.173426,94.892632,//place.qyer.com/bagan/,6904
+386,曼德勒,Mandalay,8274,myanmar,91,22.000000,96.083336,//place.qyer.com/mandalay/,6563
+387,茵莱湖,Inle lake,8277,myanmar,29,20.654411,96.930779,//place.qyer.com/inle-lake/,2557
+388,勃固,Bago ,8271,myanmar,15,17.333332,96.483330,//place.qyer.com/bago/,581
+389,木姐,Muse,9938,myanmar,1,23.977348,97.899521,//place.qyer.com/muse/,539
+390,内比都,Naypyidaw,9944,myanmar,8,19.750017,96.100449,//place.qyer.com/naypyidaw/,428
+391,彬乌伦,Pyin Oo Lwin,9941,myanmar,16,22.034189,96.469963,//place.qyer.com/pyin-oo-lwin/,394
+392,卡劳,Kalaw,8273,myanmar,2,20.631941,96.553658,//place.qyer.com/kalaw/,340
+393,维桑,Ngwe Saung,15655,myanmar,1,16.868507,94.384781,//place.qyer.com/ngwe-saung/,280
+394,东枝,Taunggyi,15639,myanmar,15,20.783632,97.035362,//place.qyer.com/taunggyi/,276
+395,妙乌,Mrauk-U,11325,myanmar,5,20.587311,93.192192,//place.qyer.com/mrauk-u/,267
+396,腊戌,Lashio,9940,myanmar,1,22.942711,97.746223,//place.qyer.com/lashio/,192
+397,斋托,Kyaikto,9997,myanmar,2,17.301140,97.022186,//place.qyer.com/kyaikto/,190
+398,毛淡棉,Mawlamyine,9943,myanmar,22,16.484591,97.625931,//place.qyer.com/mawlamyine/,190
+399,密支那,Myitkyina,9939,myanmar,1,25.379150,97.388069,//place.qyer.com/myitkyina/,178
+400,额不里滩,Ngapali beach,8272,myanmar,1,18.433332,94.316666,//place.qyer.com/ngapali-beach/,164
+401,勃生,Pathein,10002,myanmar,3,16.774166,94.731667,//place.qyer.com/pathein/,163
+402,蒙育瓦,Monywa,11500,myanmar,6,22.108334,95.141670,//place.qyer.com/monywa/,158
+403,昔卜,Hsipaw,8275,myanmar,11,22.616667,97.300003,//place.qyer.com/hsipaw/,148
+404,老街（果敢）,Laokai,15641,myanmar,1,23.688299,98.765671,//place.qyer.com/laokai/,110
+405,卑缪,Pyay,9942,myanmar,4,18.821510,95.221031,//place.qyer.com/pyay/,109
+406,孟拉,Mong La,15640,myanmar,1,21.669443,100.016388,//place.qyer.com/mong-la/,97
+407,帕安,Hpa-An,11499,myanmar,13,16.890556,97.633331,//place.qyer.com/hpa-an/,88
+408,大其力,Tachilek,15386,myanmar,11,20.450001,99.883331,//place.qyer.com/tachilek/,83
+409,实兑,Sittwe,9945,myanmar,5,20.144444,92.896942,//place.qyer.com/sittwe/,75
+410,丹老,Myeik,10003,myanmar,1,12.438440,98.608780,//place.qyer.com/myeik/,62
+411,葡萄,Putao,10103,myanmar,0,27.329494,97.426689,//place.qyer.com/putao/,49
+412,格劳,Kalaw,24574,myanmar,4,20.617611,96.562325,//place.qyer.com/kalaw/,37
+413,东吁,Taungoo,11188,myanmar,0,18.933332,96.433334,//place.qyer.com/taungoo/,35
+414,皎漂,Kyaukpyu,11359,myanmar,0,19.433332,93.550003,//place.qyer.com/kyaukpyu/,32
+415,景栋,Kengtung,15642,myanmar,14,21.291668,99.608330,//place.qyer.com/kengtung/,30
+416,宾达雅,Pindaya,15644,myanmar,1,20.950001,96.666664,//place.qyer.com/pindaya/,17
+417,马圭,Magway,15658,myanmar,0,20.150000,94.949997,//place.qyer.com/magway/,16
+418,昌达,Chaungtha,15656,myanmar,1,16.955624,94.441360,//place.qyer.com/chaungtha/,14
+419,八莫,Bhamo,15645,myanmar,0,24.266666,97.233330,//place.qyer.com/bhamo/,12
+420,妙瓦迪,Myawaddy,15653,myanmar,0,16.687778,98.508331,//place.qyer.com/myawaddy/,11
+421,土瓦,Dawei,15650,myanmar,0,14.083333,98.199997,//place.qyer.com/dawei/,11
+422,高当,Kawthaung,15651,myanmar,3,9.983333,98.550003,//place.qyer.com/kawthaung/,8
+423,耶城,Ye,15652,myanmar,0,15.246667,97.855553,//place.qyer.com/ye/,6
+424,皎梅,Kyaukme,15643,myanmar,0,22.539167,97.028336,//place.qyer.com/kyaukme/,6
+425,沙廉,Thanlyin,15660,myanmar,0,16.733334,96.250000,//place.qyer.com/thanlyin/,5
+426,拉咱,Laiza,15646,myanmar,0,24.760000,97.563332,//place.qyer.com/laiza/,4
+427,吉灵庙,Kalaymyo,15647,myanmar,0,23.183332,94.050003,//place.qyer.com/kalaymyo/,4
+428,印多吉湖,Indawgyi Lake,15649,myanmar,0,25.135000,96.333336,//place.qyer.com/indawgyi-lake/,3
+429,兴实达,Hinthada,15657,myanmar,0,17.646111,95.460281,//place.qyer.com/hinthada/,2
+430,杰沙,Katha,15659,myanmar,0,24.182222,96.330559,//place.qyer.com/katha/,2
+431,新平洋,Shingbwiyang,15648,myanmar,0,26.690638,96.211052,//place.qyer.com/shingbwiyang/,1
+432,迈马拉岛,Meinmahla kyun,15654,myanmar,0,15.963727,95.299797,//place.qyer.com/meinmahla-kyun/,0
+433,帝力,Dili,7085,east-timor,5,-8.558458,125.578148,//place.qyer.com/dili/,146
+434,包考,Baucau,7084,east-timor,0,-8.466667,126.449997,//place.qyer.com/baucau/,31
+435,巴厘岛,Bali,9492,indonesia,1500,-8.273642,115.210892,//place.qyer.com/bali/,44372
+436,库塔,Kuta,9508,indonesia,502,-8.723781,115.175278,//place.qyer.com/kuta/,17653
+437,乌布,Ubud,9535,indonesia,434,-8.506791,115.262550,//place.qyer.com/ubud/,17386
+438,登巴萨,Denpasar,9498,indonesia,16,-8.670704,115.213577,//place.qyer.com/denpasar/,11213
+439,雅加达,Jakarta,9538,indonesia,91,-6.211544,106.845169,//place.qyer.com/jakarta/,9734
+440,金巴兰,Jimbaran,14172,indonesia,4,-8.790695,115.159271,//place.qyer.com/jimbaran/,5803
+441,日惹,Yogyakarta,9522,indonesia,80,-7.782778,110.360832,//place.qyer.com/yogyakarta/,4595
+442,乌鲁瓦图,Uluwatu,15095,indonesia,6,-8.828920,115.085739,//place.qyer.com/uluwatu/,4515
+443,蓝梦岛,Lembongan,10430,indonesia,22,-8.678338,115.455544,//place.qyer.com/lembongan/,3413
+444,婆罗浮屠,Borobudur,9521,indonesia,14,-7.601111,110.204445,//place.qyer.com/borobudur/,3376
+445,民丹岛,Bintan Island,10426,indonesia,35,1.136061,104.425537,//place.qyer.com/bintan-island/,3259
+446,努沙杜瓦,Nusa Dua,14655,indonesia,3,-8.794884,115.198853,//place.qyer.com/nusa-dua/,3045
+447,泗水,Surabaya,9526,indonesia,28,-7.249167,112.750832,//place.qyer.com/surabaya/,2784
+448,沙努尔,Sanur,9524,indonesia,8,-8.675000,115.261108,//place.qyer.com/sanur/,2446
+449,龙目岛,Lombok,9511,indonesia,66,-8.679241,116.337074,//place.qyer.com/lombok/,2427
+450,罗威纳,Lovina,9512,indonesia,5,-8.161918,115.024826,//place.qyer.com/lovina/,1937
+451,巴淡岛,Batam Island,10427,indonesia,9,1.082828,104.030457,//place.qyer.com/batam-island/,1561
+452,万隆,Bandung,9533,indonesia,18,-6.914744,107.609810,//place.qyer.com/bandung/,1286
+453,吉利群岛,Gili Islands,10680,indonesia,21,-8.350000,116.050003,//place.qyer.com/gili-islands/,966
+454,美娜多,Manado,9534,indonesia,42,1.487000,124.845497,//place.qyer.com/manado/,960
+455,巴里巴板,Balikpapan,9491,indonesia,2,-1.283333,116.833336,//place.qyer.com/balikpapan/,761
+456,图兰奔,Tulamben,15000,indonesia,4,-8.312404,115.579948,//place.qyer.com/tulamben/,746
+457,外南梦,Banyuwangi,10402,indonesia,2,-8.218611,114.366943,//place.qyer.com/banyuwangi/,659
+458,棉兰,Medan,9517,indonesia,11,3.583333,98.666664,//place.qyer.com/medan/,627
+459,布罗莫腾格里塞梅鲁国家公园,Bromo Tengger Semeru National Park,11284,indonesia,2,-8.021935,112.952515,//place.qyer.com/bromo-tengger-semeru-national-park/,574
+460,巴东（苏门答腊）,Padang,9489,indonesia,5,-0.944806,100.356934,//place.qyer.com/padang/,562
+461,库布,Kubu,14297,indonesia,1,-8.259055,115.566078,//place.qyer.com/kubu/,425
+462,庞越,Probolinggo,15254,indonesia,4,-7.772312,113.201477,//place.qyer.com/probolinggo/,404
+463,三宝垄,Semarang,10401,indonesia,9,-6.966667,110.416664,//place.qyer.com/semarang/,362
+464,马塔兰,Mataram,9514,indonesia,9,-8.583333,116.116669,//place.qyer.com/mataram/,356
+465,科莫多国家公园,Komodo National Park,9507,indonesia,7,-8.527716,119.483322,//place.qyer.com/komodo-national-park/,333
+466,梭罗市,Solo,9530,indonesia,8,-7.556111,110.831665,//place.qyer.com/solo/,292
+467,八丹拜,Padangbai,13696,indonesia,1,-8.529898,115.507408,//place.qyer.com/padangbai/,258
+468,塞米亚克,Seminyak,14799,indonesia,6,-8.689872,115.167496,//place.qyer.com/seminyak/,236
+469,茂物,Bogor,9516,indonesia,3,-6.600000,106.800003,//place.qyer.com/bogor/,203
+470,玛琅,Malang,11522,indonesia,2,-7.983908,112.621391,//place.qyer.com/malang/,200
+471,望加锡,Makassar,10404,indonesia,5,-5.133333,119.416664,//place.qyer.com/makassar/,185
+472,班达亚齐,Banda aceh,9493,indonesia,4,5.557700,95.322197,//place.qyer.com/banda-aceh/,152
+473,勒吉安,Legian,14398,indonesia,2,-8.703814,115.170670,//place.qyer.com/legian/,147
+474,巴布亚,Papua,10405,indonesia,3,-4.269928,138.080353,//place.qyer.com/papua/,107
+475,四王群岛,Raja Ampat,10660,indonesia,0,-0.858821,130.668198,//place.qyer.com/raja-ampat/,94
+476,纳闽巴霍,Labuanbajo,10686,indonesia,1,-8.494416,119.885498,//place.qyer.com/labuanbajo/,92
+477,武吉丁宜,Bukittinggi,9536,indonesia,2,-0.316667,100.366669,//place.qyer.com/bukittinggi/,87
+478,艾湄湾,Amed,13636,indonesia,4,-8.334211,115.643250,//place.qyer.com/amed/,81
+479,北干巴鲁,Pekanbaru,9494,indonesia,1,0.533333,101.449997,//place.qyer.com/pekanbaru/,79
+480,德哥拉朗,Tegalalang,13895,indonesia,0,-8.444143,115.279503,//place.qyer.com/tegalalang/,74
+481,多巴湖,Lake Toba,15226,indonesia,0,2.786079,98.616066,//place.qyer.com/lake-toba/,67
+482,印度尼西亚英德,Ende,9539,indonesia,1,-8.854027,121.654121,//place.qyer.com/ende/,64
+483,坤甸,Pontianak,9509,indonesia,1,-0.033333,109.333336,//place.qyer.com/pontianak/,64
+484,弗洛里斯岛,Flores,9500,indonesia,7,-8.657382,121.079369,//place.qyer.com/flores/,62
+485,长谷,Canggu,14238,indonesia,1,-8.647818,115.138519,//place.qyer.com/canggu/,62
+486,布纳肯岛,Palau Bunaken,10697,indonesia,2,1.623516,124.760269,//place.qyer.com/palau-bunaken/,60
+487,文多禾梭,Bondowoso,15251,indonesia,0,-7.927342,113.816833,//place.qyer.com/bondowoso/,60
+488,迪昂高原,Dieng plateau,9499,indonesia,3,-7.216667,109.900002,//place.qyer.com/dieng-plateau/,56
+489,卡里蒙群岛,Karimun Jawa,11523,indonesia,5,-5.849911,110.443398,//place.qyer.com/karimun-jawa/,55
+490,巨港,Kota Palembang,15229,indonesia,1,-2.954969,104.762962,//place.qyer.com/kota-palembang/,54
+491,安汶,Ambon,9502,indonesia,0,-3.656070,128.166412,//place.qyer.com/ambon/,48
+492,姆杜克,Munduk,14617,indonesia,2,-8.270233,115.088112,//place.qyer.com/munduk/,47
+493,勿里洞岛,Belitung Island,9864,indonesia,3,-2.870894,107.953186,//place.qyer.com/belitung-island/,45
+494,古邦,Kupang,9504,indonesia,0,-10.183333,123.583336,//place.qyer.com/kupang/,42
+495,哲帕拉,Jepara,15375,indonesia,1,-6.574958,110.670525,//place.qyer.com/jepara/,39
+496,巴列姆山谷,Baliem Valley,10701,indonesia,1,-4.098681,138.962433,//place.qyer.com/baliem-valley/,39
+497,马辰,Banjarmasin,9513,indonesia,2,-3.333333,114.583336,//place.qyer.com/banjarmasin/,37
+498,庞岸达兰,Pangandaran,9520,indonesia,2,-7.703289,108.655937,//place.qyer.com/pangandaran/,36
+499,塞摩罗拉旺,Cemoro Lawang,15255,indonesia,0,-7.922619,112.965279,//place.qyer.com/cemoro-lawang/,35
+500,松巴哇岛,Sumbawa,9528,indonesia,1,-8.500000,117.433334,//place.qyer.com/sumbawa/,31
+501,巴贾瓦,Bajawa,9490,indonesia,2,-8.787573,120.972794,//place.qyer.com/bajawa/,26
+502,班达群岛,Banda Islands,10698,indonesia,2,-4.554308,129.929886,//place.qyer.com/banda-islands/,25
+503,毛梅雷,Maumere,9515,indonesia,2,-8.624559,122.214874,//place.qyer.com/maumere/,25
+504,图班,Tuban,14998,indonesia,0,-6.900000,112.050003,//place.qyer.com/tuban/,24
+505,塞班高国家公园,Sebangau National Park,15365,indonesia,0,-2.467375,113.594910,//place.qyer.com/sebangau-national-park/,23
+506,阿洛岛,Alor,10403,indonesia,0,-8.275403,124.729874,//place.qyer.com/alor/,22
+507,松巴岛,Sumba,9527,indonesia,1,-9.699344,119.974052,//place.qyer.com/sumba/,19
+508,帕卢,Palu Sulawesi,9519,indonesia,1,-0.900000,119.833336,//place.qyer.com/palu-sulawesi/,17
+509,井里汶,Cirebon,15373,indonesia,0,-6.732023,108.552315,//place.qyer.com/cirebon/,17
+510,鲁滕,Ruteng,10406,indonesia,1,-8.614365,120.466499,//place.qyer.com/ruteng/,16
+511,德那第,Ternate,9503,indonesia,1,0.783333,127.366669,//place.qyer.com/ternate/,15
+512,班达楠榜,Bandar Nampung,15230,indonesia,0,-5.397140,105.266792,//place.qyer.com/bandar-nampung/,14
+513,托吉安群岛,Palau Togean,10693,indonesia,1,-0.398157,121.924553,//place.qyer.com/palau-togean/,14
+514,占碑,Djambi,15228,indonesia,1,-1.590000,103.610001,//place.qyer.com/djambi/,13
+515,哥伦打洛,Kota Gorontalo,15368,indonesia,0,0.533333,123.066666,//place.qyer.com/kota-gorontalo/,13
+516,迪加布鲁山国家公园,Bukit Tiga puluh National Park,15248,indonesia,0,-0.963700,102.409714,//place.qyer.com/bukit-tiga-puluh-national-park/,13
+517,邦加岛,Bangka Island,15234,indonesia,0,-2.288478,106.064018,//place.qyer.com/bangka-island/,13
+518,白努亚港,Tanjung Benoa,13732,indonesia,0,-8.758680,115.214386,//place.qyer.com/tanjung-benoa/,10
+519,明古鲁,Kota Bengkulu,15231,indonesia,0,-3.792845,102.260765,//place.qyer.com/kota-bengkulu/,9
+520,实武牙,Sibolga,15246,indonesia,0,1.747745,98.786674,//place.qyer.com/sibolga/,9
+521,德波,Depok,15854,indonesia,1,-6.390000,106.830002,//place.qyer.com/depok/,9
+522,帕拉帕,Parapat,15227,indonesia,0,2.656846,98.939178,//place.qyer.com/parapat/,9
+523,丹戎普丁国家公园,Tanjung Puting National Park,15364,indonesia,0,-3.071335,111.904755,//place.qyer.com/tanjung-puting-national-park/,9
+524,乌干沙,Ungasan,15094,indonesia,0,-8.821117,115.159271,//place.qyer.com/ungasan/,8
+525,尼亚斯岛,Palau Nias,10676,indonesia,1,1.125528,97.524727,//place.qyer.com/palau-nias/,8
+526,瓦英阿普,Waingapu,9532,indonesia,2,-9.650000,120.266670,//place.qyer.com/waingapu/,8
+527,拉古洼,Lagoi,14315,indonesia,0,1.170126,104.378403,//place.qyer.com/lagoi/,8
+528,芝勒贡,Cilegon,15374,indonesia,0,-6.002534,106.011124,//place.qyer.com/cilegon/,8
+529,勿里达,Blitar,15371,indonesia,0,-8.094825,112.165253,//place.qyer.com/blitar/,7
+530,卡里乌昂,Kaliurang,14198,indonesia,0,-7.590846,110.385994,//place.qyer.com/kaliurang/,7
+531,纳柯亚,"Nagoya,Indonesia",14624,indonesia,0,1.145760,104.012062,//place.qyer.com/nagoya-indonesia/,7
+532,肯达里,Kota Kendari,15366,indonesia,0,-3.998460,122.512978,//place.qyer.com/kota-kendari/,6
+533,任抹,Jember,15252,indonesia,0,-8.173312,113.700928,//place.qyer.com/jember/,6
+534,武吉巴里杉西拉坦国家公园,Bukit Barisan Selatan NP,15233,indonesia,0,-5.448473,104.351585,//place.qyer.com/bukit-barisan-selatan-np/,6
+535,萨拉迪加,Salatiga,15376,indonesia,0,-7.330523,110.508438,//place.qyer.com/salatiga/,6
+536,培卡图,Petjatu,14692,indonesia,0,-8.834647,115.121597,//place.qyer.com/petjatu/,6
+537,谏义里,Kota Kediri,15370,indonesia,0,-7.816611,112.011917,//place.qyer.com/kota-kediri/,6
+538,马诺夸里,Manokwari,10700,indonesia,1,-0.861453,134.062042,//place.qyer.com/manokwari/,5
+539,诗都文罗,Situbondo,15253,indonesia,0,-7.705053,113.995277,//place.qyer.com/situbondo/,5
+540,科洛布坎,Kerobokan,14265,indonesia,0,-8.651466,115.163261,//place.qyer.com/kerobokan/,5
+541,班尤温当,Banyuwedang,13741,indonesia,0,-8.131732,114.572227,//place.qyer.com/banyuwedang/,4
+542,提安亚尔,Tianyar,14992,indonesia,0,-8.217578,115.492783,//place.qyer.com/tianyar/,4
+543,司马威,Lhokseumawe,15247,indonesia,0,5.188056,97.140282,//place.qyer.com/lhokseumawe/,3
+544,乌戎库隆国家公园,Ujung Kulon National Park,15372,indonesia,0,-6.784694,105.375107,//place.qyer.com/ujung-kulon-national-park/,2
+545,拉努帕里,Ranupani,15257,indonesia,0,-8.012778,112.946114,//place.qyer.com/ranupani/,2
+546,波里哇利,Polewali,15367,indonesia,0,-3.427357,119.351303,//place.qyer.com/polewali/,2
+547,巴鲁兰国家公园,Baluran National Park,15249,indonesia,0,-7.831188,114.387550,//place.qyer.com/baluran-national-park/,2
+548,雅迪萨里,Ngadisari,15256,indonesia,0,-7.916516,112.983871,//place.qyer.com/ngadisari/,1
+549,阿拉斯普沃国家公园,Alas Purwo National Park,15250,indonesia,0,-8.704760,114.449287,//place.qyer.com/alas-purwo-national-park/,1
+550,博拉科特,Berakit,13815,indonesia,0,1.217662,104.557060,//place.qyer.com/berakit/,1
+551,外港巴斯国家公园,Way Kambas National Park,15232,indonesia,0,-4.927576,105.776932,//place.qyer.com/way-kambas-national-park/,0
+552,纳土纳群岛,Natuna Islands,15606,indonesia,0,3.945651,108.142868,//place.qyer.com/natuna-islands/,0
+553,森普岛,Palau Sempu,15258,indonesia,0,-8.442856,112.697334,//place.qyer.com/palau-sempu/,0

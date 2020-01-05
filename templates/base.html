@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta name="super-H" content="QQ644531447" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="http://www.jq22.com/jquery/bootstrap-3.3.4.css">
+		<link rel="stylesheet" type="text/css" href="static/index2.css" />
+		<script src="http://www.jq22.com/jquery/jquery-1.7.1.js"></script>
+		<script type="text/javascript" charset="utf-8"></script>
+		<title>Southeast Asia</title>
+		<style>
+.daxiao{
+     width:100%;
+     height:100%;
+}
+.font{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #761c19;
+}
+
+
+body {
+  background: radial-gradient(200% 100% at bottom center, #f7f7b6, #e96f92, #75517d, #1b2947);
+  background: radial-gradient(220% 105% at top center, #1b2947 10%, #75517d 40%, #e96f92 65%, #f7f7b6);
+  background-attachment: fixed;
+
+}
+
+@keyframes rotate {
+  0% {
+    transform: perspective(400px) rotateZ(20deg) rotateX(-40deg) rotateY(0);
+  }
+  100% {
+    transform: perspective(400px) rotateZ(20deg) rotateX(-40deg) rotateY(-360deg);
+  }
+}
+.stars {
+  transform: perspective(500px);
+  transform-style: preserve-3d;
+  position: absolute;
+  bottom: 0;
+  perspective-origin: 50% 100%;
+  left: 50%;
+  animation: rotate 90s infinite linear;
+}
+
+.star {
+  width: 2px;
+  height: 2px;
+  background: #F7F7B6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0 -300px;
+  transform: translate3d(0, 0, -300px);
+  backface-visibility: hidden;
+}
+.table{
+	max-width: 100%;
+	height: 5550px;
+	margin: 80px auto;
+}
+.table form{
+	max-width: 100%;
+}
+.table .name{
+	max-width: 100%;
+	margin: 20px auto 30px auto;
+	display: block;
+	height: 30px;
+	border-radius: 20px;
+	border: none;
+	background: rgba(0,0,0,0.2);
+	text-indent: 0.5em;
+}
+.table .btn{
+	max-width: 100%;
+	height: 30px;
+	background: rgba(0,0,0,0.1);
+	border-radius: 8px;
+	border: none;
+	color: white;
+	margin: 0 auto;
+	display: block;
+}
+
+</style>
+	</head>
+
+	<body onmousemove="" ontouchstart="">
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top hc-top-up" style="background:none;border-bottom-style:none">
+			<div class="container-fluid">
+				<div class="navbar-right hc-contact p768">
+					<a href="/" style="background: lightpink !important; border-radius: 50px; color: #333 !important;">东南亚</a>
+				</div>
+				<div id="oiBtn" class="hc-oi p1100">
+					<em></em>
+				</div>
+
+				<ul id="navBox" class="nav navbar-nav navbar-right hc-navbox">
+					<li>
+						<form method='POST' action='/anyone'>
+						<input class="nav-on" value='philippines' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='philippines' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='cambodia' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='cambodia' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='thailand' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='thailand' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='brunei' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='brunei' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='vitetnam' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='vitetnam' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='laos' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='laos' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='malaysia' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='malaysia' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='myanmar' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='myanmar' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='east-timor' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='east-timor' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+					<li>
+						<form method='POST' action='/anyone'>
+
+						<input class="nav-on" value='indonesia' name='country' type='SUBMIT' style="background: lightpink !important; border-radius: 50px; color: #333 !important;">
+						</form>
+						<form method='POST' action='/anyone'>
+						<input class="nav-off" value='indonesia' name='country' type='SUBMIT' style="background: #fccf12 !important; border-radius: 50px; color: #333 !important;">
+						</form>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<div class="stars"></div>  <!--背景层，不要删除，不然没有作用-->
+        <br>
+        <br>
+        <br>
+
+        {% block body %}
+        {% endblock %}
+
+
+
+		<script>
+		$(document).ready(function(){
+		  var stars=800;  /*星星的密集程度，数字越大越多*/
+		  var $stars=$(".stars");
+		  var r=800;   /*星星的看起来的距离,值越大越远,可自行调制到自己满意的样子*/
+		  for(var i=0;i<stars;i++){
+		    var $star=$("<div/>").addClass("star");
+		    $stars.append($star);
+		  }
+		  $(".star").each(function(){
+		    var cur=$(this);
+		    var s=0.2+(Math.random()*1);
+		    var curR=r+(Math.random()*300);
+		    cur.css({
+		      transformOrigin:"0 0 "+curR+"px",
+		      transform:" translate3d(0,0,-"+curR+"px) rotateY("+(Math.random()*360)+"deg) rotateX("+(Math.random()*-50)+"deg) scale("+s+","+s+")"
+
+		    })
+		  })
+		})
+		</script>
+
+</body>
+</html>
